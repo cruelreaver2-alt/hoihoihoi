@@ -106,7 +106,7 @@ export default function App() {
       {/* Hero Section */}
       <section id="hjem" className="pt-40 pb-32 px-4 sm:px-6 lg:px-8 min-h-screen flex items-center">
         <div className="max-w-7xl mx-auto text-center w-full">
-          <h1 className="text-6xl md:text-8xl font-bold text-white mb-8 leading-tight">
+          <h1 className="text-6xl md:text-6xl font-bold text-white mb-6 leading-tight">
             Energioppgradering av <span className="bg-gradient-to-r from-[#00D9FF] to-[#FF6B9D] bg-clip-text text-transparent">Din Bolig</span>
           </h1>
           <p className="text-2xl md:text-3xl text-gray-300 mb-16 max-w-4xl mx-auto leading-relaxed">
